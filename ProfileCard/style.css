@@ -39,7 +39,9 @@ body{
     height: 280px;
     background: #FFF;
     padding: 20px;
-   ;
+    padding-top: 40px;
+    text-align: center;
+  
     }
     .lower-container h3, h4{
     box-sizing: border-box;

@@ -1,0 +1,3 @@
+*.css linguist=false
+*.html linguist=false
+*.Js linguist=false
